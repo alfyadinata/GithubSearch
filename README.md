@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-# Live DEMO : [link] (https://friendly-praline-d06b15.netlify.app)
+# Live DEMO : https://friendly-praline-d06b15.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
